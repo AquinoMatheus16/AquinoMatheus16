@@ -18,8 +18,10 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-J" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
   
-  <img align="center" alt="Matheus-J" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<!--  <img align="center" alt="Matheus-J" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> -->
             
+  <img align="center" alt="Matheus-J" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+          
 </div>
 
 ##
