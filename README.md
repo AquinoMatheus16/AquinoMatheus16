@@ -3,7 +3,7 @@
 
 ***Perfil GitHub: AquinoMatheus16***
 
-- 🌱 Estudando Java.
+- 🌱 Estudando Java e SQL.
 
 ##
 
@@ -18,6 +18,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-J" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
   
+  <img align="center" alt="Matheus-J" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+            
 </div>
 
 ##
