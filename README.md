@@ -3,7 +3,7 @@
 
 ***Perfil GitHub: AquinoMatheus16***
 
-- 🌱 Estudando Java, SQL e JavaScript..
+- 🌱 Estudando Java, SQL e JavaScript.
 
 ##
 
