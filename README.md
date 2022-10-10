@@ -1,9 +1,8 @@
 # Hi 🛸
 
-
 ***Perfil GitHub: AquinoMatheus16***
 
-- 💻 Cursando Desenvolvedor Full stack na Residência em TIC/Software do Serratec
+- 💻 Cursando Desenvolvedor Full stack na Residência em TIC/Software do Serratec.
 - 🌱 Estudando Java, SQL e JavaScript.
 
 ##
@@ -19,13 +18,13 @@
 # Estudando:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Matheus-J" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
+  <img align="center" alt="Matheus" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
   
-<!--  <img align="center" alt="Matheus-J" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> -->
+<!--  <img align="center" alt="Matheus" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> -->
             
-  <img align="center" alt="Matheus-J" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img align="center" alt="Matheus" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   
-  <img align="center" alt="Matheus-J" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="Matheus" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 </div>
 
 ##
@@ -37,4 +36,3 @@
 <div/>
   
   ![snake gif](https://github.com/AquinoMatheus16/AquinoMatheus16/blob/output/github-contribution-grid-snake.svg)
-  
