@@ -3,6 +3,7 @@
 
 ***Perfil GitHub: AquinoMatheus16***
 
+- 💻 Cursando Desenvolvedor Full stack na Residência em TIC/Software do Serratec
 - 🌱 Estudando Java, SQL e JavaScript.
 
 ##
