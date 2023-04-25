@@ -6,8 +6,8 @@
   </p>
   
 ***Perfil GitHub: AquinoMatheus16***
-- 💻 Cursando Desenvolvedor Full stack na Residência em TIC/Software do Serratec.
-- 🌱 Estudando Java, c#, SQL, JavaScript, React e React Native.
+- 💻 Formado em Desenvolvimento Full Stack pela Residência em TIC/Software do Serratec.
+- 🌱 Tecnologias: Java, C#, SQL, JavaScript, React, React Native, etc.
 
 <br>
 
