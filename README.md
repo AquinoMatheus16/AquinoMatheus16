@@ -5,9 +5,9 @@
     </a>
   </p>
   
-***Perfil GitHub: AquinoMatheus16***
-- 💻 Formado em Desenvolvimento Full Stack pela Residência em TIC/Software do Serratec.
-- 🌱 Tecnologias: Java, C#, SQL, JavaScript, React, React Native, etc.
+***GitHub Profile: AquinoMatheus16***
+- 💻 Graduated in Full Stack Development from Residência em TIC/Software do Serratec.
+- 🌱 Technologies: Java, C#, SQL, JavaScript, React, React Native, etc.
 
 <br>
 
@@ -20,7 +20,7 @@
 <br>
 
 <div align="center">  
-  <h3>Estudando:</h3>
+  <h3>Studying</h3>
   <img alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
   <img alt="PostgreSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   <img alt="HTML5" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
